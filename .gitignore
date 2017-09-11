@@ -1,4 +1,7 @@
 .idea/
+.idea
 .vscode/
 ./StudyPython/.idea/
 ./Code/.idea/
+.DS_Store
+
